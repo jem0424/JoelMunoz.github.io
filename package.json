@@ -1,0 +1,22 @@
+{
+  "name": "joelmunoz.github.io",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jem0424/JoelMunoz.github.io.git"
+  },
+  "author": "Joel Munoz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jem0424/JoelMunoz.github.io/issues"
+  },
+  "homepage": "https://github.com/jem0424/JoelMunoz.github.io#readme",
+  "description": "",
+  "dependencies": {
+    "jquery": "^3.7.1"
+  }
+}
